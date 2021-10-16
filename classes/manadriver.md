@@ -55,7 +55,7 @@ Lv.|B.A.B.|Fort. save|Rfx. save|Will save|Special
 Manadrivers are proficient with all simple weapons, ranged weapons with the *Drive weapon* property, and all light armor.
 
 #### Drive Arts (Ex)
-Beginning at 1st level, a Manadriver gains access to potent abilities known as [Drive Arts](../systems/drive-arts.md). She gains access to the [Manadriver art list](../systems/drive-arts.md#drive-arts-manadriver), knows a number of arts as indicated by the table below, and is granted maximum Drive Points according to the same table plus her Wisdom modifier.
+Beginning at 1st level, a Manadriver gains access to potent abilities known as [Drive Arts](../systems/drive-arts.md). She gains access to the [Manadriver art list](../systems/drive-arts.md#drive-arts---manadriver), knows a number of arts as indicated by the table below, and is granted maximum Drive Points according to the same table plus her Wisdom modifier.
 
 Upon leveling up, in addition to learning new arts, a Manadriver may exchange any one art known for another.
 
