@@ -55,14 +55,9 @@ Lv.|B.A.B.|Fort. save|Rfx. save|Will save|Special
 Manadrivers are proficient with all simple weapons, ranged weapons with the *Drive weapon* property, and all light armor.
 
 #### Drive Arts (Ex)
-Beginning at 1st level, a manadriver gains access to potent abilities drawing from a pool of latent magic. She has a maximum pool of these Drive Points, as indicated in the [table below](#table-drive-arts), plus her Wisdom modifier. *(If a character has Drive Points from more than one source, only the highest modifier applies for bonus points.)* These points are expended to execute Drive Arts, of which she knows a number from the [Manadriver art list](#manadriver-drive-arts) in accordance with the aforementioned table.
+Beginning at 1st level, a Manadriver gains access to potent abilities known as [Drive Arts](../systems/drive-arts.md). She gains access to the [Manadriver art list](../systems/drive-arts.md#drive-arts-manadriver), knows a number of arts as indicated by the table below, and is granted maximum Drive Points according to the same table plus her Wisdom modifier.
 
-Upon leveling up, in addition to learning new arts, a manadriver may exchange one art known for another.
-
-At the start of each day, a manadriver regains up to her maximum Drive Points, and if she would gain Drive Points beyond her maximum, the extra points last until the end of her turn.
-
-Drive Arts can only be used while wielding a weapon with the *Drive weapon* property, as they are channeled through the weapon itself. Accordingly, arts of range type *weapon* have range of a single target within that weapon's melee range if it's a melee weapon, line of sight within two range increments if it's a ranged weapon, or the weapon's stated range if it has one. If more than one of these is applicable, the wielder can choose between them as desired.
-
+Upon leveling up, in addition to learning new arts, a Manadriver may exchange any one art known for another.
 
 ###### Table: Drive Arts
 Lv.|Arts known|Base DP
@@ -78,23 +73,23 @@ Lv.|Arts known|Base DP
 9|7
 10|7
 <!--
-11|
-12|
-13|
-14|
-15|
-16|
-17|
-18|
-19|
-20|
-<-->
+11|8
+12|8
+13|9
+14|9
+15|10
+16|10
+17|11
+18|11
+19|12
+20|12
+<!---->
 
 #### Siphon Shot (Su)
-Upon hitting a target with a normal attack with a weapon with the *siphon shot* property, a manadriver gains one Drive Point (two if she confirms a critical hit).
+Upon hitting a target with a normal attack with a weapon with the *siphon shot* property, a Manadriver gains one Drive Point (two if she confirms a critical hit).
 
 #### Focused Siphon Shot (Su)
-Starting at 7th level, a manadriver can use a full-round action to [WIP]  
+Starting at 7th level, a Manadriver can use a full-round action to [WIP]  
 how to balance against basic attack and variance there?
 
 
