@@ -8,7 +8,7 @@ flavor tbw
 **Starting Wealth:**
 - 5d6x10 gp
 - One outfit costing 10gp or less
-- Aetherocharger
+- One [Manacharger](../systems/drive-arts.md#manacharger)
 
 ### Class Skills
 - Climb
@@ -91,7 +91,7 @@ Lv.|Arts known|Base DP
 <-->
 
 #### Siphon Shot (Su)
-Upon hitting a target with a normal attack with an Aetherocharger a manadriver gains one Drive Point, as well as one additional point upon confirming a critical hit.
+Upon hitting a target with a normal attack with a weapon with the *siphon shot* property, a manadriver gains one Drive Point (two if she confirms a critical hit).
 
 #### Focused Siphon Shot (Su)
 Starting at 7th level, a manadriver can use a full-round action to [WIP]  
@@ -100,19 +100,6 @@ how to balance against basic attack and variance there?
 
 ## Manadriver Drive Arts
 ---
-## Related items
-#### Aetherocharger
-*two-handed ranged weapon (advanced firearm)*  
-**Damage:** 1d4 force  
-**Critical:** 20/x1  
-**Range:** 60ft  
-**Properties:** Drive weapon  
-**Weight:** 5lbs  
-**Cost:** 750 gp  
-Aetherochargers do not use ammunition, but can only be fired by someone with some sort of magical aptitude (able to cast spells or use Drive Arts or other spell-like abilities).
-
-Upon misfiring, an Aetherocharger does not gain the *broken* condition, but instead backfires, dealing 1d4 force damage to the wielder. This does not increase the weapon's misfire rate.
-
 ## Related Feats
 
 #### Aetheroscavenger

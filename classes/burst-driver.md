@@ -54,11 +54,3 @@ Lv.|B.A.B.|Fort. save|Rfx. save|Will save|Special
 Burst Drivers are proficient with all simple weapons, melee weapons with the *Drive weapon* property, and all light armor.
 
 #### Drive Arts (Ex)
-
-
-
-
-## Related Items
-#### Gunblade
-
-#### Twinblade
