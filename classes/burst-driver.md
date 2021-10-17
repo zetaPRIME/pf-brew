@@ -4,11 +4,11 @@ flavor tbw
 **Role:** tbw
 
 **Alignment:** any  
-**Hit Die:** d8  
+**Hit Die:** d10  
 **Starting Wealth:**
 - 5d6x10 gp
 - One outfit costing 10gp or less
-- gunblade or dual blades
+- One [manatrigger](../systems/drive-arts.md#manatrigger) **or** a pair of [wingscythes](../systems/drive-arts.md#wingscythe)
 
 ### Class Skills
 - Acrobatics
@@ -26,32 +26,37 @@ flavor tbw
 ###### Table: Burst Driver
 Lv.|B.A.B.|Fort. save|Rfx. save|Will save|Special
 -:|:-:|:-:|:-:|:-:|-
-1|+1|+|+|+|[Drive Arts](#drive-arts-ex), [Siphon Strike](#siphon-strike-su)
-2|+2|+|+|+|
-3|+3|+|+|+|
-4|+4|+|+|+|
-5|+5|+|+|+|
-6|+6/+1|+|+|+|
-7|+7/+2|+|+|+|
-8|+8/+3|+|+|+|
-9|+9/+4|+|+|+|
-10|+10/+5|+|+|+|
-11|+11/+6/+1|+|+|+|
-12|+12/+7/+2|+|+|+|
-13|+13/+8/+3|+|+|+|
-14|+14/+9/+4|+|+|+|
-15|+15/+10/+5|+|+|+|
-16|+16/+11/+6/+1|+|+|+|
-17|+17/+12/+7/+2|+|+|+|
-18|+18/+13/+8/+3|+|+|+|
-19|+19/+14/+9/+4|+|+|+|
-20|+20/+15/+10/+5|+|+|+|
+1|+1|+1|+2|+2|[Driver Arsenal](#driver-arsenal-ex), [Drive Arts](#drive-arts-ex), [Siphon Strike](#siphon-strike-su)
+2|+2|+2|+3|+3|
+3|+3|+2|+3|+3|
+4|+4|+3|+4|+4|
+5|+5|+3|+4|+4|
+6|+6/+1|+4|+5|+5|
+7|+7/+2|+4|+5|+5|
+8|+8/+3|+5|+6|+6|
+9|+9/+4|+5|+6|+6|
+10|+10/+5|+6|+7|+7|
+11|+11/+6/+1|+6|+7|+7|
+12|+12/+7/+2|+7|+8|+8|
+13|+13/+8/+3|+7|+8|+8|
+14|+14/+9/+4|+8|+9|+9|
+15|+15/+10/+5|+8|+9|+9|
+16|+16/+11/+6/+1|+9|+10|+10|
+17|+17/+12/+7/+2|+9|+10|+10|
+18|+18/+13/+8/+3|+10|+11|+11|
+19|+19/+14/+9/+4|+10|+11|+11|
+20|+20/+15/+10/+5|+11|+12|+12|
 <!--
 <!---->
 
 ### Class Features
 #### Weapon and Armor Proficiency
-Burst Drivers are proficient with all simple weapons, melee weapons with the *Drive weapon* property, and all light armor.
+Burst Drivers are proficient with all simple weapons, all melee weapons with the *drive weapon* property, and all light armor.
+
+#### Driver Arsenal (Ex)
+A Burst Driver gains the benefits of the Weapon Finesse feat with all weapons with the *drive weapon* property. She also gains the effect of the Two-Weapon Fighting feat while wielding two such weapons with the *dual drive* property.
+
+This ability counts as having both the Weapon Finesse and Two-Weapon Fighting feats for the purposes of meeting feat requirements.
 
 #### Drive Arts (Ex)
 Beginning at 1st level, a Burst Driver gains access to potent abilities known as [Drive Arts](../systems/drive-arts.md). She gains access to the [Burst Driver art list](../systems/drive-arts.md#drive-arts---burst-driver), knows a number of arts as indicated by the table below, and is granted maximum Drive Points according to the same table plus her Wisdom modifier.
@@ -88,4 +93,8 @@ Lv.|Arts known|Base DP
 #### Siphon Strike (Su)
 Starting at 1st level, a Burst Driver can use her weapons to siphon energy from her opponents.
 
-When initiating an attack action, you may choose to activate this ability. If you do, make your attack rolls as normal, but do not roll for critical confirmation or damage; instead, you gain one Drive Point for each successful attack, plus one extra for each critical threat. You deal that many points of force damage to each target successfully struck.
+When initiating an attack action, you may choose to activate this ability. If you do, make your attack rolls as you normally would, except only attacking with *drive weapon*s. *(You may treat your offhand as your main hand for this action.)*
+
+Do not roll for critical confirmation or damage; instead, you gain one Drive Point for each successful attack, plus one extra for each critical threat. You deal that many points of force damage to each target successfully struck.
+
+#### TODO - AoO siphon
