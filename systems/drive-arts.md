@@ -7,6 +7,9 @@ This reservoir has a limited capacity (as granted by classes and feats), but any
 
 Drive Arts can only be used while wielding a weapon with the *drive weapon* property, as they are channeled through the weapon itself. Accordingly, arts of range type *weapon* have range of a single target within that weapon's melee range if it's a melee weapon, or line of sight within the first range increment if it's a ranged weapon. If the weapon is usable as both melee and ranged, then the wielder may choose between them as desired.
 
+#### Overdrive
+If a Drive Art specifies more than one Drive Point cost (separated by a slash), you can pay the second (or later) cost upon activation to *overdrive* it, gaining a bonus specified within the body of the art's entry. Your *overdrive level* is 0 if paying the normal cost, 1 if paying the second, etc.
+
 |Contents|
 |-|
 [Drive Arts - Common](#drive-arts---common)
@@ -15,8 +18,8 @@ Drive Arts can only be used while wielding a weapon with the *drive weapon* prop
 [Related Items](#related-items)
 [Related Feats](#related-feats)
 
-### Terms
-*DP cost* - The Drive Point cost paid to activate the art. Multiple values separated by slash indicates that the art can be *overdriven*.   
+#### Terms
+*DP cost* - The Drive Point cost paid to activate the art. Multiple values separated by a slash indicates that the art can be *overdriven*.   
 *Modifies* - Indicates that the art modifies a particular action taken. Only a single art may be used to modify a given action where not otherwise indicated.  
 *Driver level* - user's combined level in all classes that grant Drive Arts (minimum 1).  
 
