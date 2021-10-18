@@ -17,36 +17,66 @@ Drive Arts can only be used while wielding a weapon with the *drive weapon* prop
 
 ### Terms
 *DP cost* - The Drive Point cost paid to activate the art. Multiple values separated by slash indicates that the art can be *overdriven*.   
-*Modifies* - Indicates that the art modifies a particular action taken.  
+*Modifies* - Indicates that the art modifies a particular action taken. Only a single art may be used to modify a given action where not otherwise indicated.  
 *Driver level* - user's combined level in all classes that grant Drive Arts (minimum 1).  
 
 ## Drive Arts - Common
 *(Any Drive Arts user can learn arts from this list.)*
 
-#### Afterburst (Sp)
-**Requirements:** Driver level 1  
+#### Afterburst (Su)
 **DP Cost:** 1  
 **Modifies:** Weapon attack  
-Any time you make a successful normal weapon attack, you may pay this art's cost to deal an extra 1d4+1 fire damage as part of the same attack.
+Any time you make a successful normal weapon attack, you may activate this art to deal an extra 1d4 fire damage as part of the same attack.
 
 ## Drive Arts - Burst Driver
+
+#### Blastwave (Su)
+**DP Cost:** 2  
+**Use Time:** 1 standard action  
+**Area:** 30-foot straight line  
+You gather energy in your weapons, swinging them forward and sending a shockwave through the air before you, dealing 2d4 bludgeoning damage to the first enemy you hit, each one thereafter taking half the damage (rounded up) that the previous one took.
 
 #### Spin Burst (Su)
 **Requirements:** Driver level 3, melee drive weapon  
 **DP Cost:** 3  
 **Use Time:** 1 standard action  
 **Range:** Melee reach  
-Roll damage (including bonuses) for a single attack with your main-hand weapon if it is a *drive weapon*. You deal half that much fire damage (rounded up) to each target in a square that weapon could reach. Repeat for your offhand weapon.
+Roll damage as if making a single attack with your main-hand weapon if it is a *drive weapon*. You deal half that much fire damage (rounded up) to each target in a square that weapon could reach. Repeat for your offhand weapon.
 
-#### Arc Dash (Su)
+#### Strike Dash (Su)
 **Requirements:** Driver level 5  
-**DP Cost:** 2  
+**DP Cost:** 2
 **Modifies:** Movement or charge  
-Any time you charge or make a normal move action, you may pay this art's cost to move up to an additional 20 feet. If you then bull rush during the same turn, the target is pushed back an additional five feet.
+Any time you charge or make a normal move action, you may activate this art to move up to an additional 20 feet. If you then bull rush during the same turn, the target is pushed back an additional five feet.
+
+#### Flashstrike (Su)
+**Requirements:** Driver level 8, Burst Driver level 5  
+**DP Cost:** 4  
+**Use Time:** 1 standard action  
+**Range:** 25 feet (line of sight)  
+Your form crackles with lightning for a moment before you're barely more than a blur, blinking from target to target in a flurry of sizzling slashes.
+
+Make an attack roll against a target in range; if successful, you deal 1d4+1 lightning damage to that target. For each successful attack you may repeat on another target within range of the last, with a cumulative -3 penalty to your attack roll. *(You cannot strike the same target twice in a row.)*
+
+At the end of this action you are placed in a square of your choosing directly adjacent to the target of your last successful attack. This movement does not provoke attacks of opportunity.
 
 ## Drive Arts - Manadriver
 
+#### Healing Shot (Sp)
+**DP Cost:** 3  
+**Use Time:** 1 standard action  
+**Range:** Weapon  
+You take aim at your target and fire off a small orb of healing magic that is absorbed on contact, restoring 1d6 hit points plus one additional point per driver level beyond the first.
 
+
+#### Blast Shield (Sp)
+**Requirements:** Driver level 8  
+**DP Cost:** 5  
+**Use Time:** 1 standard action  
+**Range:** Weapon  
+You fire a small polyhedral bolt of magic that shatters near your target, forming a spherical energy field around them which shields them from harm, granting 2d4+2 temporary hit points that last either until they next leave combat or until the end of the day, whichever comes sooner.
+
+These temporary hit points do not stack with any other provided by a Drive Art; instead, take whichever value is higher.
 
 
 ## Related Items
@@ -61,12 +91,14 @@ Any time you charge or make a normal move action, you may pay this art's cost to
 **Cost:** 750 gp  
 Essentially a bastard sword with a shotgun grip, run with a carefully crafted conduit of magically conductive materials. Requires no ammunition, but can only be fired as a ranged weapon by someone with magical aptitude *(i.e. able to cast spells, use Drive Arts or other spell-like abilities)*.
 
+The ranged attack of a Manatrigger hits against touch AC within the first range increment. Ranged attacks or Drive Arts used with the range of this weapon do not provoke an attack of opportunity.
+
 *Bastard weapon - can be wielded two-handed as a martial weapon.*
 
 #### Wingscythe
 *one-handed melee exotic weapon (wingscythe)*  
 **Damage:** 1d4+1 slashing  
-**Critical:** 19-20/x3  
+**Critical:** 19-20/x2  
 **Properties:** Drive weapon, dual drive  
 **Weight:** 3lbs  
 **Cost:** 550 gp  

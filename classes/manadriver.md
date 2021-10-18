@@ -1,7 +1,7 @@
 # Manadriver
 flavor tbw
 
-**Role:** tbw
+**Role:** Manadrivers can put out decent damage at range, but where they really shine is their unconventional brand of support.
 
 **Alignment:** any  
 **Hit Die:** d8  
@@ -67,11 +67,11 @@ Lv.|Arts known|Base DP
 3|4|5
 4|4|7
 5|5|9
-6|5
-7|6
-8|6
-9|7
-10|7
+6|5|12
+7|6|15
+8|6|18
+9|7|21
+10|7|24
 <!--
 11|8
 12|8
