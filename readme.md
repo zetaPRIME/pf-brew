@@ -3,7 +3,7 @@
 
 **Note:** The contents of this repository are a *living document* which may be updated at any time.
 If you wish to pin your campaign to a specific version of the rules text and mechanics, consider picking a version-numbered tag from the
-[releases page](https://github.com/zetaPRIME/pf-brew/releases).
+[releases page](../releases).
 *(If you'd like to use something added since the last release, you can also reference a specific commit.)*
 
 #### Classes
