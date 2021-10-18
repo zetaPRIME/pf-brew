@@ -93,11 +93,7 @@ Lv.|Arts known|Base DP
 #### Siphon Strike (Su)
 Starting at 1st level, a Burst Driver can use her weapons to siphon energy from her opponents.
 
-When initiating an attack action *(full or otherwise)*, you may choose to activate this ability. If you do, make your attack rolls as you normally would, except only attacking with *drive weapon*s. *(You may treat either hand as your main hand for this action.)*
-
-Do not roll for critical confirmation or damage; instead, you gain one Drive Point for each successful attack, plus one extra for each critical threat. You deal that many points of force damage to each target successfully struck.
-
-*(This ability counts as modifying the attack action with a Drive Art.)*
+When making an attack action, you gain one Drive Point for each successful hit with a *drive weapon*, plus one additional point for each critical threat scored.
 
 #### TODO - AoO siphon
 #### TODO - self-sustain for light armor

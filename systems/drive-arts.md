@@ -34,7 +34,7 @@ Any time you make a successful normal weapon attack, you may activate this art t
 **DP Cost:** 2  
 **Use Time:** 1 standard action  
 **Area:** 30-foot straight line  
-You gather energy in your weapons, swinging them forward and sending a shockwave through the air before you, dealing 2d4 bludgeoning damage to the first enemy you hit, each one thereafter taking half the damage (rounded up) that the previous one took.
+You gather energy in your weapons, swinging them forward and sending a shockwave through the air before you, dealing 2d4 force damage to the first enemy you hit, each one thereafter taking half the damage (rounded up) that the previous one took.
 
 #### Spin Burst (Su)
 **Requirements:** Driver level 3, melee drive weapon  
@@ -97,12 +97,14 @@ The ranged attack of a Manatrigger hits against touch AC within the first range 
 
 #### Wingscythe
 *one-handed melee exotic weapon (wingscythe)*  
-**Damage:** 1d4+1 slashing  
+**Damage:** 1d4+1 slashing *or* piercing  
 **Critical:** 19-20/x2  
 **Properties:** Drive weapon, dual drive  
 **Weight:** 3lbs  
 **Cost:** 550 gp  
 A long, broad, shallow crescent of a blade, sharp only on the convex edge, with a grip anchored roughly two-thirds down the length, pitched forward at around 65 degrees. Often harshly serrated.
+
+A wingscythe counts as both a slashing and a piercing weapon for the purposes of determining eligibility for any class feature, feat or other effect.
 
 #### Manacharger
 *two-handed ranged exotic weapon (advanced firearm)*  
