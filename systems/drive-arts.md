@@ -138,6 +138,8 @@ A long, broad, shallow crescent of a blade, sharp only on the convex edge, with 
 
 A wingscythe counts as both a slashing and a piercing weapon for the purposes of determining eligibility for any class feature, feat or other effect.
 
+Spell-like Drive Arts used with the range of this weapon do not provoke an attack of opportunity.
+
 #### Manacharger
 *two-handed ranged exotic weapon (advanced firearm)*  
 **Damage:** 1d4 force  
