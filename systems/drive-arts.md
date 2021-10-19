@@ -8,7 +8,7 @@ This reservoir has a limited capacity (as granted by classes and feats), but any
 Drive Arts can only be used while wielding a weapon with the *drive weapon* property, as they are channeled through the weapon itself. Accordingly, arts of range type *weapon* have range of a single target within that weapon's melee range if it's a melee weapon, or line of sight within the first range increment if it's a ranged weapon. If the weapon is usable as both melee and ranged, then the wielder may choose between them as desired.
 
 #### Overdrive
-If a Drive Art specifies more than one Drive Point cost (separated by a slash), you can pay the second (or later) cost upon activation to *overdrive* it, gaining a bonus specified within the body of the art's entry. Your *overdrive level* is 0 if paying the normal cost, 1 if paying the second, etc.
+If a Drive Art specifies more than one Drive Point cost (separated by a slash), you can pay the second (or later) cost upon activation to *overdrive* it *(assuming you meet any requirements specified)*, gaining a bonus specified within the body of the art's entry. Your *overdrive level* is 0 if paying the normal cost, 1 if paying the second, etc.
 
 |Contents|
 |-|
@@ -27,9 +27,28 @@ If a Drive Art specifies more than one Drive Point cost (separated by a slash), 
 *(Any Drive Arts user can learn arts from this list.)*
 
 #### Afterburst (Su)
-**DP Cost:** 1  
+**DP Cost:** 1 / 3 / 5  
 **Modifies:** Weapon attack  
-Any time you make a successful normal weapon attack, you may activate this art to deal an extra 1d4 fire damage as part of the same attack.
+Any time you make a successful normal weapon attack, you may activate this art to have that attack deal an extra 1d4 fire damage. *(This damage is subject to critical multipliers where applicable.)*
+
+**Overdrive** - The modified attack deals an additional 1d8+2 fire damage per overdrive level.
+
+#### Explosive Retreat (Su)
+**Requirements:**  Driver level 5  
+**DP Cost:** 3  
+**Use Time:** 1 standard action  
+**Range:** 5 feet  
+You ready your weapon at an adjacent target and fire a point-blank explosive blast,
+dealing 2d4 force damage to the target, stunning it until the start of its next turn, and moving 25 feet in a straight line directly away from it. This movement does not provoke attacks of opportunity at any point except the end.
+
+#### Lacerating Blur (Sp)
+**Requirements:**  Driver level 9  
+**DP Cost:** 5  
+**Use Time:** 1 standard action  
+**Range:** Weapon  
+A rapid flurry of slashing blows with no regard for accuracy.
+
+Make attack rolls against a target in range until one fails, adding a cumulative -2 penalty for each past the first. You deal 1dX bleed damage, where X is twice the number of successes. *(If X is more than 12, you instead deal as many d12s as go into X plus dY, Y being the remainder.)*
 
 ## Drive Arts - Burst Driver
 
@@ -50,7 +69,7 @@ Roll damage as if making a single attack with your main-hand weapon if it is a *
 **Requirements:** Driver level 5  
 **DP Cost:** 2
 **Modifies:** Movement or charge  
-Any time you charge or make a normal move action, you may activate this art to move up to an additional 20 feet. If you then bull rush during the same turn, the target is pushed back an additional five feet.
+Any time you run, charge, or make a normal move action, you may activate this art to move up to an additional 20 feet. If you then bull rush during the same turn, the target is pushed back an additional five feet.
 
 #### Flashstrike (Su)
 **Requirements:** Driver level 8, Burst Driver level 5  
@@ -59,9 +78,19 @@ Any time you charge or make a normal move action, you may activate this art to m
 **Range:** 25 feet (line of sight)  
 Your form crackles with lightning for a moment before you're barely more than a blur, blinking from target to target in a flurry of sizzling slashes.
 
-Make an attack roll against a target in range; if successful, you deal 1d4+1 lightning damage to that target. For each successful attack you may repeat on another target within range of the last, with a cumulative -3 penalty to your attack roll. *(You cannot strike the same target twice in a row.)*
+Make an attack roll against a target in range; if successful, you deal 1d4+1 lightning damage to that target. For each successful attack you may repeat on another target within range of the last, with a cumulative -3 penalty to your attack roll for each roll past the first. *(You cannot strike the same target twice in a row.)*
 
 At the end of this action you are placed in a square of your choosing directly adjacent to the target of your last successful attack. This movement does not provoke attacks of opportunity.
+
+#### Disphasement (Su)
+**Requirements:** Driver level 15  
+**Modifies:** Damage taken  
+An emergency technique that tears you halfway out of reality in a split second, leaving a shimmering shell of lingering energy around you.
+
+You may activate this art in response to damage that would take you to zero or fewer hit points.
+Your hit points are instead immediately set to 1d20 plus your driver level plus your constitution score upon activation, your AC is considered to be infinite and all damage to you is prevented until the end of your turn-after-next.
+
+This art cannot be activated more than once per day.
 
 ## Drive Arts - Manadriver
 
