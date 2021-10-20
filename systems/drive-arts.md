@@ -69,7 +69,7 @@ You gather energy in your weapons, swinging them forward and sending a shockwave
 **DP Cost:** 3  
 **Use Time:** 1 standard action  
 **Range:** Melee reach  
-Roll damage as if making a single attack with your main-hand weapon if it is a *drive weapon*. You deal half that much fire damage (rounded up) to each target in a square that weapon could reach. Repeat for your offhand weapon. *(This art does not use the ranged component of dual-type weapons.)*
+Roll damage as if making a single melee attack with your main-hand weapon if it is a *drive weapon*. You deal half that much fire damage (rounded up) to each target in a square that weapon could reach with a melee attack. Repeat for your offhand weapon.
 
 #### Strike Dash (Su)
 **Requirements:** Driver level 5  
