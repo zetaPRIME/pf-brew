@@ -120,7 +120,7 @@ These temporary hit points do not stack with any other provided by a Drive Art; 
 ## Related Items
 #### Manatrigger
 *one-handed melee/ranged exotic weapon (manatrigger, gunblade)*  
-**Damage (Melee):**  1d6 slashing (2d4+2 if offhand free)   
+**Damage (Melee):**  1d6 slashing (2d4+2 if offhand free/2H)   
 **Damage (Ranged):** 1d4 force  
 **Critical:** 20/x2  
 **Range:** 40ft  
