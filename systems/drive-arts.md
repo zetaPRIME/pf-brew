@@ -33,6 +33,12 @@ Any time you make a successful normal weapon attack, you may activate this art t
 
 **Overdrive** - The modified attack deals an additional 1d8+2 fire damage per overdrive level.
 
+#### Flamethrower (Sp)
+**DP Cost:** 2  
+**Use Time:** 1 standard action
+(flavor todo)  
+Cast Burning Hands as a spell-like ability, treating your driver level as your caster level.
+
 #### Explosive Retreat (Su)
 **Requirements:**  Driver level 5  
 **DP Cost:** 3  
@@ -56,7 +62,7 @@ Make attack rolls against a target in range until one fails, adding a cumulative
 **DP Cost:** 2  
 **Use Time:** 1 standard action  
 **Area:** 30-foot straight line  
-You gather energy in your weapons, swinging them forward and sending a shockwave through the air before you, dealing 2d4 force damage to the first enemy you hit, each one thereafter taking half the damage (rounded up) that the previous one took.
+You gather energy in your weapons, swinging them forward and sending a shockwave through the air before you, dealing 2d4 plus your driver level force damage to the first enemy you hit, each one thereafter taking half the damage (rounded up) that the previous one took.
 
 #### Spin Burst (Su)
 **Requirements:** Driver level 3, melee drive weapon  
