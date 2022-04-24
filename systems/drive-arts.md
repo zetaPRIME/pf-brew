@@ -45,7 +45,8 @@ Cast Burning Hands as a spell-like ability, treating your driver level as your c
 **Use Time:** 1 standard action  
 **Range:** 5 feet  
 You ready your weapon at an adjacent target and fire a point-blank explosive blast,
-dealing 2d4 force damage to the target, stunning it until the start of its next turn, and moving 25 feet in a straight line directly away from it. This movement does not provoke attacks of opportunity at any point except the end.
+dealing 2d4 force damage to the target, stunning it until the start of its next turn, and moving up to 25 feet in a straight line directly away from it.
+This movement does not provoke attacks of opportunity at any point except the end.
 
 #### Lacerating Blur (Sp)
 **Requirements:**  Driver level 9  
@@ -54,7 +55,8 @@ dealing 2d4 force damage to the target, stunning it until the start of its next 
 **Range:** Weapon  
 A rapid flurry of slashing blows with no regard for accuracy.
 
-Make attack rolls against a target in range until one fails, adding a cumulative -2 penalty for each past the first. You deal 1dX bleed damage, where X is twice the number of successes. *(If X is more than 12, you instead deal as many d12s as go into X plus dY, Y being the remainder.)*
+Make attack rolls against a target in range until one fails, using your highest bonus with a cumulative -2 penalty for each roll past the first.
+You deal 1dX bleed damage, where X is twice the number of successes. *(If X is more than 12, you instead deal as many d12s as go into X plus dY, Y being the remainder.)*
 
 ## Drive Arts - Burst Driver
 
@@ -135,13 +137,14 @@ The ranged attack of a Manatrigger hits against touch AC within the first range 
 
 #### Wingscythe
 *one-handed melee exotic weapon (wingscythe)*  
-**Damage:** 1d4+1 slashing *or* piercing  
+**Damage:** 1d4+2 slashing *or* piercing  
 **Critical:** 19-20/x2  
 **Properties:** Drive weapon, dual drive  
 **Weight:** 3lbs  
 **Cost:** 550 gp  
 A long, broad, shallow crescent of a blade, sharp only on the convex edge, with a grip anchored roughly two-thirds down the length, pitched forward at around 65 degrees. Often harshly serrated.
 
+Grants a +2 on attack rolls when wielding one in each hand, as while they're not exactly "light", they're explicitly designed for dual-wielding.
 A wingscythe counts as both a slashing and a piercing weapon for the purposes of determining eligibility for any class feature, feat or other effect.
 
 Spell-like Drive Arts used with the range of this weapon do not provoke an attack of opportunity.
