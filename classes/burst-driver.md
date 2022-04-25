@@ -104,4 +104,11 @@ Starting at 1st level, a Burst Driver can use her weapons to siphon energy from 
 When making an attack action, you gain one Drive Point for each successful hit with a *drive weapon*, plus one additional point for each critical threat scored.
 
 #### TODO - AoO siphon
-#### TODO - self-sustain for light armor
+
+#### Flicker Dodge (Su)
+At Xth level, a Burst Driver gains the ability to anticipate incoming attacks, dodging out of the way with a burst of incredible agility.
+
+When wearing light or no armor, she can make a will save in response to a successful incoming attack roll.
+If she succeeds, she gains a dodge bonus to her AC equal to her driver level for that and any further attacks from that source until the beginning of her next turn.
+
+Any attack where a Burst Driver is denied her Dexterity bonus to AC, or is unable to move, does not trigger this effect and bypasses any AC bonus it grants while active.
