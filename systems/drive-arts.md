@@ -40,7 +40,7 @@ Any time you make a successful normal weapon attack, you may activate this art t
 Cast Burning Hands as a spell-like ability, treating your driver level as your caster level.
 
 #### Explosive Retreat (Su)
-**Requirements:**  Driver level 5  
+**Requirements:** Driver level 5  
 **DP Cost:** 3  
 **Use Time:** 1 standard action  
 **Range:** 5 feet  
@@ -49,7 +49,7 @@ dealing 2d4 force damage to the target, stunning it until the start of its next 
 This movement does not provoke attacks of opportunity at any point except the end.
 
 #### Lacerating Blur (Sp)
-**Requirements:**  Driver level 9  
+**Requirements:** Driver level 9  
 **DP Cost:** 5  
 **Use Time:** 1 standard action  
 **Range:** Weapon  
@@ -57,6 +57,17 @@ A rapid flurry of slashing blows with no regard for accuracy.
 
 Make attack rolls against a target in range until one fails, using your highest bonus with a cumulative -2 penalty for each roll past the first.
 You deal 1dX bleed damage, where X is twice the number of successes. *(If X is more than 12, you instead deal as many d12s as go into X plus dY, Y being the remainder.)*
+
+#### Shatterburst (Sp)
+**Requirements:** Driver level 7, Burst Driver level 4 **or** Manadriver level 4  
+**DP Cost:** 5 / 7 / 10  
+**Use Time:** 1 standard action  
+**Range:** Weapon  
+guard break
+
+Make one attack roll against a target at your highest bonus. If successful, roll 1d4 / 1d6 / 1d8; your target is afflicted with a condition that applies a penalty to AC equal to your rolled value, and any incoming attack gains a damage bonus equal to half of that value (rounded up) before applying damage reduction. This value decreases by 1 per round.
+
+A target can have only one instance of this condition at a time. If another would be applied, the higher remaining value is kept.
 
 ## Drive Arts - Burst Driver
 
@@ -86,7 +97,8 @@ Any time you run, charge, or make a normal move action, you may activate this ar
 **Range:** 25 feet (line of sight)  
 Your form crackles with lightning for a moment before you're barely more than a blur, blinking from target to target in a flurry of sizzling slashes.
 
-Make an attack roll against a target in range; if successful, you deal 1d4+1 lightning damage to that target. For each successful attack you may repeat on another target within range of the last, with a cumulative -3 penalty to your attack roll for each roll past the first. *(You cannot strike the same target twice in a row.)*
+Make an attack roll against a target in range using your highest bonus; if successful, you deal 1d4+1 lightning damage to that target. For each successful attack you may repeat on another target within range of the last, with a cumulative -3 penalty to your attack roll for each roll past the first.
+*(You cannot strike the same target twice in a row, but you can chain back to a target you have already hit this turn.)*
 
 At the end of this action you are placed in a square of your choosing directly adjacent to the target of your last successful attack. This movement does not provoke attacks of opportunity.
 
@@ -162,3 +174,8 @@ Manachargers require no ammunition, but can only be fired by someone with magica
 Upon misfiring, a Manacharger does not gain the *broken* condition, but instead backfires, dealing 1d4 force damage to the wielder. (This does not increase the weapon's misfire rate.)
 
 ## Related Feats
+
+#### Driven Grace (Combat, Drive)
+*Your sheer agility makes your strikes all the more deadly.*  
+**Prerequisites:** Dex 13, Weapon Finesse, Driver level 3  
+When wielding a single *drive weapon*, or two weapons with the *dual drive* property, you can add your Dexterity modifier instead of your Strength modifier to those weapons' damage.
